@@ -9,7 +9,9 @@ Ecoeum-explorer is a browser for node-ecoeum. You can browse the contents of eco
 https://nodejs.org/ node.js version:v7.9.0+
 ### install application
 git clone https://github.com/ecoeum/ecoeum-explorer 
+
 npm install
+
 ## Run
 npm start
 ## Test
