@@ -9,7 +9,8 @@ ecoeum-explorer是node-ecoeum的浏览器。可以实现对ecoeum区块链内容
 参见https://nodejs.org/
 node.js 版本:v7.9.0及以上
 ### 安装应用
-git clone https://github.com/ecoeum/ecoeum-explorer
+git clone https://github.com/ecoeum/ecoeum-explorer 
+
 npm install
 ## 运行
 npm start
