@@ -1,0 +1,33 @@
+.ca-content{
+    padding:0 40px;
+}
+.ca-tip{
+    padding:20px 0;
+}
+.ca-data{
+    padding:20px 0;
+}
+.ca-button-area{
+
+}
+.ca-result{
+    width:100%;
+    border-collapse:collapse;
+    border-spacing:0;
+    border-left:1px solid rgba(0, 0, 0, 0.15);
+    border-top:1px solid rgba(0, 0, 0, 0.15);
+}
+.ca-result td{
+    padding:10px;
+    border-right:1px solid rgba(0, 0, 0, 0.15);
+    border-bottom:1px solid rgba(0, 0, 0, 0.15);
+}
+.ca-label{
+    margin-left:3px;
+}
+.ca-row-label td{
+    background-color:#fafafa;
+}
+.ca-row-data td{
+    height:80px;
+}

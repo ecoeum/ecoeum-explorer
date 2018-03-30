@@ -1,0 +1,44 @@
+body{
+	margin:0;
+	padding:0;
+}
+.nav-bar{
+	line-height:50px;
+	background:black;
+}
+.nav-bar .logo{
+	position:absolute;
+	left:0;
+	width:100px;
+	height:50px;
+}
+.nav-bar ul{
+	margin:0;
+	padding:0;
+	height:50px;
+	position:absolute;
+}
+.nav-bar li{
+	float:left;
+	list-style-type:none;
+	margin:0px;
+}
+.nav-bar li a{
+	color:#fefefe;
+	text-decoration:none;
+    display:block;
+	padding:0 30px;
+}
+.nav-bar li.active{
+	background:blue;
+	color:white;
+}
+.nav-bar .search{
+}
+.nav-bar .search input[type='text']{
+	width:200px;
+    padding:0 5px;
+}
+.nav-bar .search input[type='button'],.nav-bar .search button{
+	margin-left:10px;
+}
